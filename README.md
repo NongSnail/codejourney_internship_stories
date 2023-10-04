@@ -18,9 +18,4 @@ _(สามารถเข้าเพิ่มบทความและหม
 ## สายงานด้าน Software Engineer
 
 
-## Contributors
-<a href="https://github.com/NongSnail/Awesome-programmer-internship-blog/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NongSnail/Awesome-programmer-internship-blog" />
-</a>
 
-Made with [contrib.rocks](https://contrib.rocks).
