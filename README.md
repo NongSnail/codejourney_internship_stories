@@ -15,7 +15,6 @@ _(สามารถเข้าเพิ่มบทความและหม
 
 ## สายงานด้าน Front-end Developer
 
+- [ประสบการณ์ฝึกงาน Front-End Developer @BorntoDev!](https://www.borntodev.com/2022/05/23/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99-front-end-developer-borntodev/)
+
 ## สายงานด้าน Software Engineer
-
-
-
