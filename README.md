@@ -19,8 +19,15 @@ _(สามารถเข้ามาเพิ่มบทความและ
 
 ## สายงานด้าน Software Engineer
 
+- [Design Pattern แบบเข้าใจง่ายพร้อมตัวอย่าง](https://github.com/saladpuk/design-patterns)
+
+## Tools
+
+- [Visualize Google Keyword](https://github.com/anvaka/vs)
+
 # วิธีเพิ่มบทความ
+
 - Fork repository นี้
 - สร้าง branch ใหม่สำหรับ contribution
-- เพิ่มบทความในไฟล์ readme.md 
+- เพิ่มบทความในไฟล์ readme.md
 - สร้าง pull request มา เดี๋ยวฝ้ายจะรีวิวและ merge ให้
