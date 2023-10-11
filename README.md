@@ -18,6 +18,10 @@ _(สามารถเข้ามาเพิ่มบทความและ
 - [ประสบการณ์ฝึกงาน Front-End Developer @BorntoDev!](https://www.borntodev.com/2022/05/23/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99-front-end-developer-borntodev/)
 
 ## สายงานด้าน Software Engineer
+### TypeScript
+- [TypeScript Course 2 ชั่วโมง by Borntodev](https://school.borntodev.com/course/get-started-with-typescript)
+- [TypeScript in Thai by ไทยไทป์ fanpage](https://typescript-th.thadaw.com/docs/intro) <- Basic to Advance
+- [TypeScript in Thai อีกอันนึง](https://gitlab.com/fResult/typescript-slide/-/blob/master/README.md) <- Basic จัดๆ และเนื้อหาโดยรวมอาจจะน้อยกว่าอันแรกครับ
 
 # วิธีเพิ่มบทความ
 - Fork repository นี้
