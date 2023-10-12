@@ -28,4 +28,8 @@ _(สามารถเข้ามาเพิ่มบทความและ
 - [อยากเป็นโปรแกรมเมอร์ละอ่อนใน 3เดือน | by TiMeFF - Medium](https://medium.com/p/7201b312e115)
 
 ## วิธีเพิ่มบทความ
-- อ่านเพิ่มเติมที่ [CONTRIBUTING.md](/CONTRIBUTING.md)
+- Fork repository นี้
+- สร้าง branch ใหม่สำหรับ contribution
+- เพิ่มบทความในไฟล์ readme.md 
+- สร้าง pull request มา เดี๋ยวฝ้ายจะรีวิวและ merge ให้
+อ่านเพิ่มเติมที่ [CONTRIBUTING.md](/CONTRIBUTING.md)
