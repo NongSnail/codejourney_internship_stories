@@ -24,6 +24,8 @@ _(สามารถเข้ามาเพิ่มบทความและ
 ### สายงานด้าน Infrastructure
 
 ### สายงานด้าน Cyber Security
+- [แชร์ประสบการณ์ Summer Internship DevSecOps Engineer ที่ True Digital Group](https://medium.com/@horizon_20/summer-internship-devsecops-engineer-ที่-true-digital-group-fc6d6e44538)
+
 
 ### สายงานด้าน Front-end Developer
 
