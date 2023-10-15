@@ -13,6 +13,6 @@ We welcome contributions to our project. To get started, please follow these sim
 That's it! We appreciate your contributions.
 
 # What must be the articles that can be added?
-1. I aspire to gain more than just experience, but also knowledge through my internship.
+1. We aspire to gain more than just experience, but also knowledge through my internship.
 2. You can add articles or video reviews pertaining to internships, whether they involve self-guided experiences or company internships.
 3. You can upload other people's articles.
