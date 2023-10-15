@@ -18,3 +18,4 @@ That's it! We appreciate your contributions.
 3. You can upload other people's articles.
 4. The pull request should now include a brief description of the article.
 5. For internships in the same position at the same company, it is advisable to specify the names of the intern students in the heading.
+6. You can add additional topics about other positions.
