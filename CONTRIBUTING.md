@@ -16,3 +16,5 @@ That's it! We appreciate your contributions.
 1. We aspire to gain more than just experience, but also knowledge through your internship.
 2. You can add articles or video reviews pertaining to internships, whether they involve self-guided experiences or company internships.
 3. You can upload other people's articles.
+4. The pull request should now include a brief description of the article.
+5. For internships in the same position at the same company, it is advisable to specify the names of the intern students in the heading.
