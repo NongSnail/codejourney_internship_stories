@@ -48,3 +48,13 @@
 
 ## Contributing
 อ่านเพิ่มเติมที่ [CONTRIBUTING.md](/CONTRIBUTING.md)
+
+## Contributor
+Thanks a lot for spending your time helping CodeJourney: Internship Stories grow. Thanks a lot! 
+<br>
+<a href="https://github.com/NongSnail/codejourney_internship_stories/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NongSnail/codejourney_internship_stories" />
+</a>
+<br>
+Made with [contrib.rocks](https://contrib.rocks).
+
