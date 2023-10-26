@@ -75,6 +75,7 @@
 - [“Growth 10X as an Intern @Skooldio” by Thaworn Kangwansinghanat](https://link.medium.com/3fZozusEiZ)
 - [ความในใจที่น้องๆฝึกงานอยากแบ่งปัน | by Q-Chang](https://www.linkedin.com/posts/q-chang_lifeatqchang-peopleatqchang-qchanginternship-activity-7108465908179771392-Z493?utm_source=share&utm_medium=member_desktop)
 - [“Internship@True ปี 2012 (เก่านิดนึงครับ ^__^)” by Chatri Ngambenchawong](https://naiwaen.debuggingsoft.com/tag/internshiptrue/)
+- [การฝึกงานที่ Sunday Ins Co.ในตำแหน่ง Software Engineer by Life at Sunday by Suphawit Seripanitkarn] (https://medium.com/lifeatsunday/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-sunday-ins-co-%E0%B9%83%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%87-software-engineer-172e93bbb99e)
 
 ## Contributing
 อ่านเพิ่มเติมที่ [CONTRIBUTING.md](/CONTRIBUTING.md)
