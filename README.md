@@ -37,6 +37,7 @@
 
 ### สายงาน Project Management
 - [“รีวิวประสบการณ์ฝึกงานเต็ม 2 เดือนที่ Tencent ทีม Project Management!!” by Krit Rukmaneewong](https://link.medium.com/kQukIAolrZ)
+- [“Facilitate ให้คน 20 คนตัดสินใจร่วมกัน” by Chokchai Phatharamalai](https://medium.com/odds-team/facilitate-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%99-20-%E0%B8%84%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99-ef1e0efba803)
 
 ### สายงานด้าน Data / AI
 
@@ -81,7 +82,7 @@
 อ่านเพิ่มเติมที่ [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## Contributor
-Thanks a lot for spending your time helping CodeJourney: Internship Stories grow. Thanks a lot! 
+Thanks a lot for spending your time helping CodeJourney: Internship Stories grow. Thanks a lot!
 <br>
 <a href="https://github.com/NongSnail/codejourney_internship_stories/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NongSnail/codejourney_internship_stories" />
